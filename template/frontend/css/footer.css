@@ -1,0 +1,17 @@
+.size-img-footer{
+    width: 100%;
+    z-index: -5;
+    position: absolute;
+    bottom: 0%;
+
+}
+.con-footer{
+    padding-bottom: 15%;
+}
+footer{
+    position: relative;
+}
+button:hover{
+    color: #70b247;
+    text-decoration: underline;
+}

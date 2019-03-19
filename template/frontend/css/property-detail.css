@@ -1,0 +1,32 @@
+.property-de-h1{
+    color: #5a5a5a; 
+    font-weight: 600;
+    font-size: 3vw;
+}
+.property-de-img {
+    width: 100%; 
+    height: auto; 
+    object-fit: cover;
+}
+.property-de-btn{
+    color: #fff;
+    background-color: #70b247;
+}
+.property-de-map{
+    width: 100%;  
+    height: 25%;
+}
+.property-de-font-weight{
+    font-weight: 800;
+}
+
+@media only screen and (max-width: 767.5px) {
+    .property-de-h1{
+        font-size: 6vw;
+    }
+}
+@media only screen and (max-width: 426px) {
+    .property-de-h1{
+        font-size: 9vw;
+    }
+}

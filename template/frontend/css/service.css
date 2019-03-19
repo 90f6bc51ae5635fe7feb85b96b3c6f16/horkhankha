@@ -1,0 +1,250 @@
+.detail-service{
+    margin-right: 1vw;
+    margin-left: 1vw;
+    margin-bottom: 1vw;
+}
+.size-img-service{
+    width: 100%;
+    height: 20vw;
+}
+.text-header-service{
+    font-size: 3.5vw;
+}
+.icon-service-detail{
+    width: 12vw;
+    height: 10vw;
+}
+.icon-service{
+    width: 12vw;
+    height: 10vw;
+    margin-left: -2vw;
+}
+.text-sevice-detail1{
+    color: #70b247;
+    font-size: 1.3vw;
+    font-weight: 600;
+    margin-top: 2vw;
+}
+.text-sevice-detail2{
+    color: #3379a5;
+    font-size: 1.3vw;
+}
+.all-text-service-detail{
+    padding-top: 1vw;
+    padding-left: 1vw;
+    margin-bottom: 1vw;
+}
+.img-service-detail{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.servicedetail-box{
+    color: #0175A4;
+    font-size: 1.5rem;
+}
+.no-padding{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.btn-contact-servicedetail{
+    color: #fff;
+    background-color: #70b247;
+    font-size: 1vw;
+    margin-top: 4vw;
+}
+.text-service-detail{
+    font-size: 1vw;
+    padding-left: 3.5vw;
+    padding-right: 2.5vw;
+    color: #464646;
+    font-weight: 600;
+}
+.overlay-slide-service {
+    background: linear-gradient(#f2f2f4, rgb(241, 246, 242));
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    opacity: .2;
+    z-index: 996;
+}
+.topic-service{
+    color: #5a5a5a;
+    font-weight: 600;
+}
+.service-detail{
+    padding-top: 7vw;
+}
+@media only screen and (max-width: 1496px) {
+    .icon-service-detail{
+        width: 15vw;
+        height: 12vw;
+    }
+    .text-sevice-detail1{
+        font-size: 1.3vw;
+        font-weight: 600;
+    }
+}
+@media only screen and (max-width: 1100px) {
+    
+}
+@media only screen and (max-width: 1024px) {
+    .overlay-slide-service {
+        height: 35%;
+    }
+    .btn-contact-servicedetail{
+        font-size: 1.5vw;
+        font-weight: 800;
+    }
+    .text-sevice-detail1 {
+        font-size: 2.3vw;
+    }
+    .text-sevice-detail2 {
+        font-size: 2vw;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .topic-service{
+        padding-top: 25vw;
+    }
+    .text-sevice-detail1{
+        font-size: 2.3vw;
+        font-weight: 600;
+        margin-left: 0vw;
+        margin-top: 1vw;
+    }
+    .btn-contact-servicedetail{
+        font-size: 2.4vw;
+        margin-left: -5vw;
+        margin-top: 3vw;
+    }
+    .detail-service {
+        margin-top: 1vw;
+    }
+    .icon-service-detail {
+        width: 20vw;
+        height: 14vw;
+        margin-left: 2vw;
+    }
+    .size-img-service {
+        height: 30vw;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .topic-service{
+        padding-top: 60vw;
+    }
+    .icon-service-detail {
+        width: 20vw;
+        height: 15vw;
+        margin-left: 2vw;
+    }
+}
+@media only screen and (max-width: 630px) {
+    .topic-service{
+        padding-top: 70vw;
+    }
+    .icon-service-detail {
+        width: 25vw;
+        height: 18vw;
+    }
+    .text-sevice-detail1 {
+        font-size: 3.2vw;
+        margin-top: 1vw;
+    }
+    .text-sevice-detail2 {
+        font-size: 3vw;
+    }
+    .btn-contact-servicedetail {
+        margin-top: 6vw;
+    }
+    .icon-service {
+        width: 15vw;
+        height: 13vw;
+        margin-left: -1vw;
+    }
+}
+@media only screen and (max-width: 575.5px) {
+    .size-img-service{
+        height: 60vw;
+    }
+    .icon-service {
+        width: 20vw;
+        height: 14vw;
+        margin-left: 5vw;
+    }
+    .text-sevice-detail1 {
+        font-size: 4.3vw;
+        margin-top: 0vw;
+    }
+    .text-sevice-detail2 {
+        font-size: 3.3vw;
+        margin-left: 6vw;
+    }
+}
+@media only screen and (max-width: 550.5px) {
+    .icon-service {
+        width: 22vw;
+        height: 22vw;
+    }
+    .text-sevice-detail1 {
+        font-size: 5.3vw;
+        margin-top: 3vw;
+    }
+    .text-sevice-detail2 {
+        font-size: 5.3vw;
+        margin-left: 0vw;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .service-detail{
+        padding-top: 50vw;
+    }
+    .text-service-detail{
+        padding-left: 4.5vw;
+        padding-right: 3.5vw;
+    }
+    .btn-contact-servicedetail{
+        font-size: 3vw;
+    }
+    .topic-service {
+        padding-top: 125vw;
+    }
+    .text-sevice-detail1 {
+        font-size: 3.5vw;
+    }
+}
+@media only screen and (max-width: 415px) {
+    .topic-service{
+        padding-top: 125vw;
+    }
+}
+@media only screen and (max-width: 376px) {
+    .text-sevice-detail1 {
+        font-size: 4.5vw;
+    }
+    .icon-service-detail {
+        width: 30vw;
+        height: 20vw;
+    }
+    .topic-service {
+        padding-top: 130vw !important;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .topic-service {
+        padding-top: 160vw !important;
+    }
+    .icon-service {
+        width: 24vw;
+        height: 22vw;
+    }
+    .text-sevice-detail1 {
+        font-size: 5.5vw;
+    }
+    .text-sevice-detail2 {
+        font-size: 5.3vw;
+    }
+}
