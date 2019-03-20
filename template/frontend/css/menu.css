@@ -1,7 +1,6 @@
 
 .header-menu{
     z-index: 9999;
-    position: relative;
     padding: 0 5%;
     color: #ffffff; 
     position: absolute;
@@ -137,6 +136,12 @@ img::-moz-selection {
     }
 }
 
+@media (max-width: 992px) {
+    .header-menu{
+        padding: 0px;
+        position: relative;
+    }
+}
 @media (max-width: 991px) {
     .contact_list {
         padding: .5rem 1rem;
@@ -145,9 +150,6 @@ img::-moz-selection {
     }
     .contact_list span{
         display: none;
-    }
-    .header-menu{
-        padding: 0px;
     }
     .nav-link {
         padding: 0%;

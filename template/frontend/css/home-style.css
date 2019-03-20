@@ -1,3 +1,8 @@
+.img-phone{
+    width: 60%;
+    height: 35vw;
+
+}
 .margin-product-home{
     padding-top: 7vw;
 }
@@ -59,7 +64,7 @@
 }
 .img-slide-home{
     position: relative;
-    margin-top: 5vw;
+    margin-top: 2vw;
 }
 .box-search-home{
     width: 100%;
@@ -113,7 +118,7 @@
     width: 100%;
     height: 18vw;
 }
-.text-product-home{;
+.text-product-home{
     font-weight: 600;
     color: #959595;
     margin-bottom: 2vw;
@@ -197,9 +202,10 @@
 }
 .slide-home{
     position: absolute;
-    top: 20%;left: 0;
+    top: 20%;
+    left: 0;
     width: 100%;
-    height: 100%;
+    height: 80%;
     z-index: 998;
 }
 .slide-header-home{
@@ -226,15 +232,6 @@
     margin-left: 2vw;
     margin-top: 1vw;
 }
-.slide-detail-home{
-    /* position: absolute ;
-    top: 20%;
-    max-width: 60%;
-    max-height: 65%;
-    margin-left: 25vw;
-    color: #fff;
-    z-index: 999; */
-}
 .nav-color{
 
     color: white;
@@ -256,17 +253,14 @@
     object-fit: cover;
 }
 .size-img-slide-home{
-    width: 100%;
-    max-height: 43vw;
+    width: 100vw;
+    height: 100vh;
     z-index: 1;
     object-fit: cover;
 }
 .no-padding{
     padding-left: 0px;
     padding-right: 0px;
-}
-.slide-item{
-    /* position: relative; */
 }
 .overlay-slide{
     background: linear-gradient(blue, rgb(0, 255, 13));
