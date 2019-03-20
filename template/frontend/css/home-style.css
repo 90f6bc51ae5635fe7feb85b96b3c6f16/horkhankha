@@ -213,11 +213,13 @@
     position: relative;
     font-size: 3.6vw;
     margin-left: 4vw;
+    font-weight: 999;
 }
 .slide-text-detail{
     padding-top: 1px;
     color : #fff;
     margin-left: 4vw;
+    font-size: 2vw;
 }
 .btn-slide{
     color: #fff;
@@ -331,6 +333,8 @@
         position: relative;
         font-size: 1.9vw;
         margin-left: 8vw;
+        
+
     }
     .slide-text-detail{
         padding-top: 1px;
