@@ -1,85 +1,44 @@
-.about-container{
-    padding-bottom: 5%;
+.contact{
+    padding-left: 5vw;
+    font-size: 1.5vw;
+    font-weight: 800;
 }
-.about-head{
-    padding-top: 10%;
+.contact2{
+    font-weight: 550;
+    padding-left: 5vw;
+    font-size: 1.3vw;
+}
+.contact3{
     font-weight: 600;
+    padding-left: 5vw;
+    font-size: 1.3vw;
+    padding-top: 1vw;
 }
-.about-head-box{
-    padding-top: 10%;
+.mail{
     font-weight: 600;
+    padding-left: 5vw;
+    font-size: 1.3vw;
+    padding-top: 1vw;
 }
-.about-box{
-    width: 100%;
-}
-.size-img-about{
-    width: 100%;
-    height: 50%;
-    object-fit: cover;
-}
-.about-box-text{
-    color: #0175A4;
-    font-size: 1.5rem;
-    padding-bottom: 5%;
-}
-.about-box-text2{
-    color: #458020;
-    font-size: 1.5rem;
-}
-.img-slide-about{
-    position: relative;
-    height: 30vw;
-}
-.overlay-slide-about{
-    background: linear-gradient(blue, rgb(0, 255, 13));
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 30%;
-    opacity: .2;
-    z-index: 996;
-}
-@media (max-width: 991px) {
-    .about-head{
-        padding-top: 40%;
-        font-weight: 600;
-    }
+.facebook{
+    font-weight: 600;
+    padding-left: 5vw;
+    font-size: 1.3vw;
+    padding-top: 1vw;
 }
 
-@media (max-width: 767.5px) {
-    .about-head{
-        font-weight: 600;
-        padding-top: 100%;
-    }
+.tel{
+    font-weight: 600;
+    padding-left: 5vw;
+    font-size: 1.3vw;
+    padding-top: 1vw;
 }
-@media (max-width: 576px) {
-    .about-head{
-        padding-top:80%;
-        font-weight: 600;
-    }
+.about1{
+    font-size: 3vw;
+    font-weight: 700;
 }
-@media (max-width: 501px) {
-    .about-head{
-        padding-top:130%;
-        font-weight: 600;
-    }
-}
-@media (max-width: 441px) {
-    .about-head{
-        padding-top:140%;
-        font-weight: 600;
-    }
-}
-@media (max-width: 362px) {
-    .about-head{
-        padding-top:160%;
-        font-weight: 600;
-    }
-}
-@media (max-width: 321px) {
-    .about-head{
-        padding-top:180%;
-        font-weight: 600;
-    }
+.about2{
+    font-size: 1.7vw;
+    padding-top: 2vw;
+
 }

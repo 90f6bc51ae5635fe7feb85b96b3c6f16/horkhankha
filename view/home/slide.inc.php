@@ -67,7 +67,7 @@
                         </div>
                     </div>
                     <div class="col-5 img-slide-home">
-                        <img class="float-left img-phone" src="img_upload/app-on-phone/3.png">
+                        
                     </div>
                 </div>
             </div>

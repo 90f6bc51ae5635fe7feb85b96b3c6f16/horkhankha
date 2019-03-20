@@ -6,7 +6,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-7 text-slide-home">
+                    <div class="col-12 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -14,15 +14,14 @@
                                     
                                 </div>
                                 <div class="slide-text-detail cut-text-multi ">
-                                    
+                                    <div class="about1">เกี่ยวกับเรา</div>
+                                    <div class="about2">"เป็นผู้นำในการสร้างองค์ความรู้และศูนย์กลางเครือข่ายความร่วมมือ<br>ในการส่งเสริมพัฒนาเศรษฐกิจและสังคมอย่างยั่งยืน"</div>
                                 </div>
 
                             </div>
                         </div>
                     </div>
-                    <div class="col-5 img-slide-home">
-                        <img class="float-left img-phone" src="img_upload/app-on-phone/1.png">
-                    </div>
+                    
                 </div>
             </div>
         </div>

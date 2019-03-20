@@ -5,8 +5,8 @@ abstract class BaseModel{
     
     protected $host="localhost";
 	protected $username="root";
-	protected $password="root123456";
-    protected $db_name="revel_soft_real_estate";
+	protected $password="12345678";
+    protected $db_name="revelsoft_horkhankha";
 
 	function __construct(){
         static::$db = mysqli_connect($host, $username, $password, $db_name);
