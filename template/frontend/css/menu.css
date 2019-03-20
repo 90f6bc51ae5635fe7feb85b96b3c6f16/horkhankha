@@ -1,4 +1,15 @@
-
+@font-face {
+    font-family: 'Kanit-Light';
+    src: url('../fonts/kanit/Kanit-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Kanit-Medium';
+    src: url('../fonts/kanit/Kanit-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Kanit-Regular';
+    src: url('../fonts/kanit/Kanit-Regular.ttf') format('truetype');
+}
 .header-menu{
     z-index: 9999;
     padding: 0 5%;

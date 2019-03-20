@@ -12,12 +12,12 @@
 <?php 
 
 ?>
-<div class="header-menu" id="mainNav" >
+<div class="header-menu " id="mainNav" >
     <div class="col-12">
         <div class="row menu">
         </div>
     </div>
-    <nav class="navbar navbar-expand-lg navbar-dark" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-dark " id="mainNav">
 
         <a href="index.php" class=""><img src="img_upload/home/logo.png" width="130px" class="logo"></a>
 
@@ -27,22 +27,21 @@
         </button>
 
         <div class=" collapse navbar-collapse" id="navbarResponsive" style="margin-left: 45vw;">
-            <ul class=" navbar-nav text-center ">
+            <ul class=" navbar-nav text-center  ">
                 
-                <li class="nav-item">
+                <li class="nav-item"  style="font-family: 'Kanit-Medium';">
                     <a class="nav-link <?php if ($menu == 'index') {
                                             echo 'active';
-                                        } ?>" href="index.php" style="#000">
-
+                                        } ?>" href="index.php" style="#000; font-size: 14px; " >
 
                         เกี่ยวกับเรา
                     </a>
                 </li>
-                <li class="nav-item ">
+                <li class="nav-item " style="font-family: 'Kanit-Medium';">
 
                     <a class="nav-color nav-link <?php if ($menu == 'about') {
                                                         echo 'active';
-                                                    } ?>" href="about.php#about" style="#000">
+                                                    } ?>" href="about.php#about" style="#000; font-size: 14px; ">
 
                         แอพของเรา
                     </a>
