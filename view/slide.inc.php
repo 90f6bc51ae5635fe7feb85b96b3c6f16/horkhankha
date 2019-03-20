@@ -2,7 +2,7 @@
 <section class="no-padding" style="position: relative; ">
     <img class="size-img-slide-home" src="img_upload/home/3333.jpg">
     <section class="slide no-padding slide-home ">
-        <?PHP for ($i = 0; $i < count($slide); $i++) { ?>
+        
         <div class="col-12">
             <div class="container">
                 <div class="row">
@@ -25,8 +25,7 @@
                 </div>
             </div>
         </div>
-        <?PHP 
-    } ?>
+       
 
         </div>
         </div>

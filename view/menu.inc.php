@@ -10,32 +10,13 @@
 </script>
 
 <?php 
-require_once('models/ContactUsModel.php');
-$img_path = "../img_upload/contact_us/";
-$contact_us_model = new ContactUsModel;
-$contact_us = $contact_us_model->getContact_us();
+
 ?>
 <div class="header-menu" id="mainNav" >
     <div class="col-12">
         <div class="row menu">
-            <!--           
-                
-                <div class="float-right" style="color: #ffffffdb; margin-left: 15vw;">
-                    <div class="contact_list pb-0">
-                        <i class="fas fa-mobile-alt" aria-hidden="true"></i>
-                        &nbsp;&nbsp;<i class="fab fa-twitter"></i>
-                        &nbsp;&nbsp;<i class="fab fa-linkedin-in"></i>
-                    </div>
-                </div> -->
-
-
-
-
-
-
         </div>
     </div>
-
     <nav class="navbar navbar-expand-lg navbar-dark" id="mainNav">
 
         <a href="index.php" class=""><img src="img_upload/home/logo.png" width="130px" class="logo"></a>

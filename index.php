@@ -1,17 +1,4 @@
 <?PHP
-if(isset($_COOKIE['language'])){
-    $lng = $_COOKIE['language'];
-}
-
-
-require_once('models/PageModel.php'); 
-$page_model = new PageModel;
-$page = $page_model->getPageByID('2');
-
-require_once('models/SlideModel.php'); 
-$slide_model = new SlideModel;
-$slide = $slide_model->getSlideByID('1');
-
 date_default_timezone_set("Asia/Bangkok");
 ?>
 
