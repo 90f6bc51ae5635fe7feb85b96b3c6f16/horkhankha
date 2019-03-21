@@ -1,3 +1,6 @@
+.menu-phone {
+    margin-left: 45vw;
+}
 @font-face {
     font-family: 'Kanit-Light';
     src: url('../fonts/kanit/Kanit-Light.ttf') format('truetype');
@@ -40,9 +43,7 @@ a:hover {
     z-index: 50;
     
 }
-.menu-phone{
-    margin-left: 45vw;
-}
+
 @media (min-width: 768px) {
     section {
         padding:  0%;
@@ -91,10 +92,7 @@ img::-moz-selection {
 
 
 
-@media only screen and (min-width: 991px){
-    .menu-phone{
-        margin-left: 0vw;
-    }
+@media only screen and (min-width: 991.5px){
     .font-weight-light {
         font-size:15px; 
     }
@@ -158,11 +156,14 @@ img::-moz-selection {
         position: relative;
     }
 }
-@media (max-width: 991px) {
+@media (max-width: 991.5px) {
     .contact_list {
         padding: .5rem 1rem;
         background-color: #212529;
         padding-left: 80vw;
+    }
+    .menu-phone{
+        margin-left: 0vw;
     }
     .contact_list span{
         display: none;
