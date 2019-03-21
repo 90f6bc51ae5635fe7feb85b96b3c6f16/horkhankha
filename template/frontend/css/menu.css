@@ -40,6 +40,9 @@ a:hover {
     z-index: 50;
     
 }
+.menu-phone{
+    margin-left: 45vw;
+}
 @media (min-width: 768px) {
     section {
         padding:  0%;
@@ -88,7 +91,10 @@ img::-moz-selection {
 
 
 
-@media (min-width: 992px) {
+@media only screen and (min-width: 991px){
+    .menu-phone{
+        margin-left: 0vw;
+    }
     .font-weight-light {
         font-size:15px; 
     }
