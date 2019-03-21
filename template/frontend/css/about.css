@@ -33,12 +33,179 @@
     font-size: 1.3vw;
     padding-top: 1vw;
 }
-.about1{
-    font-size: 3vw;
-    font-weight: 700;
-}
-.about2{
-    font-size: 1.7vw;
-    padding-top: 2vw;
+h2{
+    font-size: 36px;
+        padding-top: 20px;
 
+}
+h4{
+    font-size: 32px;
+    padding-top: 10px;
+    
+}
+
+
+
+
+@media only screen and (max-width: 991px){
+    .text-slide-home {
+        margin-top: -10vw;
+       
+    }
+    .logo {
+        width: 10vw;
+    }
+    h4{
+        padding-top: 2vw;
+    }
+
+     .contact{
+        font-size: 18px;
+    }
+    .contact2,.contact3,.mail,.tel,.facebook{
+        font-size: 16px;
+    }    
+}
+
+
+
+@media only screen and (max-width: 844px){
+    .text-slide-home {
+        margin-top: -10vw;
+    }
+    .contact{
+        font-size: 16px;
+    }
+    .contact2,.contact3,.mail,.tel,.facebook{
+        font-size: 14px;
+    }    
+}
+@media only screen and (max-width: 780px){
+    .contact{
+        font-size: 16px;
+    }
+    .contact2,.contact3,.mail,.tel,.facebook{
+        font-size: 14px;
+    }    
+}
+
+@media only screen and (max-width: 770px){
+    .logo {
+        width: 14vw;
+    }
+    .text-slide-home {
+        margin-top: -7vw;
+    }
+    h2{font-size: 1.8rem;}
+    h4{font-size: 1.6rem;}
+    .contact{
+        font-size: 18px;
+    }
+    .contact2,.contact3,.mail,.tel,.facebook{
+        font-size: 16px;
+    }    
+    
+}
+@media only screen and (max-width: 580px){
+    .logo {
+        width: 16vw;
+    }
+    h2{
+        font-size: 30px;
+            padding-top: 20px;
+        
+    }
+    h4{
+        font-size: 26px;
+        padding-top: 5px;
+        
+    }
+    .contact{
+        font-size: 16px;
+    }
+    .contact2,.contact3,.mail,.tel,.facebook{
+        font-size: 14px;
+    }       
+}
+
+
+@media only screen and (max-width: 500px){
+    .logo {
+        width: 16vw;
+    }
+
+    h2{
+        font-size: 1.6rem;
+        
+    }
+    h4{
+    font-size: 1.3rem;
+    }.text-slide-home {
+    margin-top: -38vw;
+}
+.contact{
+    font-size: 14px;
+}
+.contact2,.contact3,.mail,.tel,.facebook{
+    font-size: 11px;
+}
+
+}
+
+
+@media only screen and (max-width: 448px){
+    .logo {
+        width: 16vw;
+    }
+
+    h2{
+        font-size: 1.6rem;
+        
+    }
+    h4{
+    font-size: 1.3rem;
+    }.text-slide-home {
+    margin-top: -38vw;
+}
+.contact{
+    font-size: 14px;
+}
+.contact2,.contact3,.mail,.tel,.facebook{
+    font-size: 10px;
+}
+
+}
+
+
+
+@media only screen and (max-width: 320px){
+    .logo {
+        width: 16vw;
+    }
+    .about1{
+        font-size: 18px;
+            padding-top: 0px;
+        color: black;
+    }
+    .about2{
+        font-size: 14px;
+        padding-top: 0;
+        color: black;
+    }
+    h2{
+        font-size: 1.5rem;
+        color: black;
+    }
+    h4{
+    font-size: 1rem;
+    color: black;
+}.text-slide-home {
+    margin-top: -27vw;
+}
+.contact{
+    font-size: 16px;
+}
+.contact2,.contact3,.mail,.tel,.facebook{
+    font-size: 14px;
+}
 }
