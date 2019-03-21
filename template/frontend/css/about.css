@@ -56,6 +56,7 @@ h4{
         width: 10vw;
     }
     h4{
+        font-size: 30px;
         padding-top: 2vw;
     }
 
@@ -64,7 +65,11 @@ h4{
     }
     .contact2,.contact3,.mail,.tel,.facebook{
         font-size: 16px;
-    }    
+    }   
+    h2 {
+        font-size: 43px;
+        padding-top: 120px;
+    }
 }
 
 
