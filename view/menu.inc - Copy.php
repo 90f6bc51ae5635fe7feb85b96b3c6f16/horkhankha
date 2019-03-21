@@ -26,7 +26,7 @@
             <i class="fas fa-bars"></i>
         </button>
 
-        <div class=" collapse navbar-collapse" id="navbarResponsive" style="margin-left: 45vw;">
+        <div class=" collapse navbar-collapse" id="navbarResponsive" >
             <ul class=" navbar-nav text-center ">
                 
                 <li class="nav-item" style="font-family: 'Kanit-Regular'; font-size:13px;">
