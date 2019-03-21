@@ -64,7 +64,11 @@ h4{
     }
     .contact2,.contact3,.mail,.tel,.facebook{
         font-size: 16px;
-    }    
+    }   
+    h2 {
+        font-size: 26px;
+        padding-top: 120px;
+    } 
 }
 
 
