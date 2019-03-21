@@ -1,7 +1,6 @@
 .img-phone{
-    width: 60%;
-    height: 35vw;
-
+        width: 53%;
+        height: 30vw;
 }
 .margin-product-home{
     padding-top: 7vw;
@@ -211,7 +210,7 @@
 .slide-header-home{
     color: #fff;
     position: relative;
-    font-size: 3.6vw;
+    font-size: 2.6vw;
     margin-left: 4vw;
     font-weight: 999;
 }
@@ -219,7 +218,7 @@
     padding-top: 1px;
     color : #fff;
     margin-left: 4vw;
-    font-size: 2vw;
+    font-size: 1.6vw;
 }
 .btn-slide{
     color: #fff;
@@ -256,6 +255,7 @@
 }
 .size-img-slide-home{
     width: 100vw;
+    height: 100vh;
     z-index: 1;
     object-fit: cover;
 }
@@ -389,6 +389,10 @@
     .slide-text-detail {
         font-size: 24px;
     }
+    .img-phone {
+        width: 53%;
+        height: 36vw;
+    }
 }
 
 
@@ -398,7 +402,12 @@
         font-size: 4.5vw;
     }
     .slide-text-detail {
-        font-size: 2.5vw;
+        margin-left: 0vw;
+        font-size: 2vw;
+    }
+    .img-phone {
+        width: 60%;
+        height: 35vw;
     }
 }
 @media only screen and (max-width: 780px) {
@@ -409,24 +418,34 @@
         font-size: 7vw;
     }
     .slide-text-detail {
-        font-size: 3.6vw;
+        font-size: 2.6vw;
     }
     .img-phone {
         width: 60%;
-        height: 80vw;
+        height: 32vw;
+    }
+    .slide-header-home {
+        font-size: 4vw;
     }
 }
 
 @media only screen and (max-width: 600px) {
-    .slide-header-home {
-        font-size: 9vw;
-    }
     .slide-text-detail {
-        font-size: 3.6vw;
+        font-size: 2.6vw;
     }
     .img-phone {
-        width: 60%;
-        height: 100vw;
+        width: 85%;
+        height: 55vw;
+    }
+    .slide-header-home {
+        font-size: 5vw;
+    }
+}
+@media only screen and (max-width: 536px) {
+    .img-phone {
+        width: 50%;
+        height: 65vw;
+        padding-top: 5vw;
     }
 }
 @media only screen and (max-width: 416px) {

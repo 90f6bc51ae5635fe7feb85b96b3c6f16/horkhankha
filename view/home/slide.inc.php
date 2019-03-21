@@ -6,7 +6,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12  text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7  text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -20,7 +20,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/1.png">
                     </div>
                 </div>
@@ -29,7 +29,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -43,7 +43,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/2.png">
                     </div>
                 </div>
@@ -52,7 +52,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -67,7 +67,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/3.png">
                     </div>
                 </div>
@@ -76,7 +76,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -91,7 +91,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5  col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/13.png">
                     </div>
                 </div>
@@ -100,7 +100,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -115,7 +115,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/4.png">
                     </div>
                 </div>
@@ -124,7 +124,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -139,7 +139,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/5.png">
                     </div>
                 </div>
@@ -148,7 +148,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -163,7 +163,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/6.png">
                     </div>
                 </div>
@@ -172,7 +172,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -187,7 +187,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/7.png">
                     </div>
                 </div>
@@ -196,7 +196,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -211,7 +211,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/8.png">
                     </div>
                 </div>
@@ -220,7 +220,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -235,7 +235,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/9.png">
                     </div>
                 </div>
@@ -244,7 +244,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -259,7 +259,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/10.png">
                     </div>
                 </div>
@@ -268,7 +268,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-sm-12 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -283,7 +283,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-5 col-lg-5 col-sm-12 img-slide-home">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5 img-slide-home">
                         <img class="float-left img-phone" src="img_upload/app-on-phone/12.png">
                     </div>
                 </div>
