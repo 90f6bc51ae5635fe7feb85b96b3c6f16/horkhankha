@@ -13,10 +13,6 @@
 
 ?>
 <div class="header-menu " id="mainNav" >
-    <div class="col-12">
-        <div class="row menu">
-        </div>
-    </div>
     <nav class="navbar navbar-expand-lg navbar-dark " id="mainNav">
 
         <a href="index.php" class=""><img src="img_upload/home/logo.png" width="130px" class="logo"></a>

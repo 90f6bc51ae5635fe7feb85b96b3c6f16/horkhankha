@@ -1,43 +1,13 @@
-<?php require_once('view/menu.inc.php') ?>
-<section class="no-padding" style="position: relative; ">
-    <img class="size-img-slide-home" src="img_upload/home/3333.jpg">
+<div style="position: relative;background-image: url(img_upload/home/3333.jpg);height: 100vh;background-repeat: no-repeat;background-size: cover;">
     <section class="slide no-padding slide-home ">
-        
-        <div class="col-12">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 text-slide-home">
-
-                        <div class="slide-item">
-                            <div class="slide-detail-home">
-                                <div class="slide-header-home cut-text-multi-cut-text-multi-product-home">
-                                    
-                                </div>
-                                <div class="slide-text-detail cut-text-multi ">
-                                    <h2 class="font-weight-bold">เกี่ยวกับเรา</h2>
-                                    <h4 class="">"เป็นผู้นำในการสร้างองค์ความรู้และศูนย์กลางเครือข่ายความร่วมมือ<br>ในการส่งเสริมพัฒนาเศรษฐกิจและสังคมอย่างยั่งยืน"</h4>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
+        <div class="text-slide-home">
+            <div class="slide-text-detail cut-text-multi ">
+                <h2 class="font-weight-bold">เกี่ยวกับเรา</h2>
+                <h4 class="">"เป็นผู้นำในการสร้างองค์ความรู้และศูนย์กลางเครือข่ายความร่วมมือ<br>ในการส่งเสริมพัฒนาเศรษฐกิจและสังคมอย่างยั่งยืน"</h4>
             </div>
         </div>
-       
-
-        </div>
-        </div>
-
     </section>
-
-
-
-
-
-
-</section>
+</div>
 
 <!-- <div class="container">
 

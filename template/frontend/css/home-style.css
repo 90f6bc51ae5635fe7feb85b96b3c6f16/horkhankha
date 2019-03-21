@@ -217,7 +217,7 @@
 .slide-text-detail{
     padding-top: 1px;
     color : #fff;
-    margin-left: 4vw;
+    padding-left: 4vw;
     font-size: 1.6vw;
 }
 .btn-slide{
@@ -305,6 +305,9 @@
 }
 .menu{
     margin-left: 15vw;
+}
+.no-margin{
+    margin: unset;
 }
 @media only screen and (max-width: 1200px) {
     .on-img {
