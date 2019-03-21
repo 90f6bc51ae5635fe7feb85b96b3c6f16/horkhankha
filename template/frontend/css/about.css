@@ -52,6 +52,10 @@ h4{
         margin-top: -10vw;
        
     }
+    .text-slide-app {
+        margin-top: 0vw;
+       
+    }
     .logo {
         width: 10vw;
     }
@@ -78,6 +82,10 @@ h4{
     .text-slide-home {
         margin-top: -10vw;
     }
+    .text-slide-app {
+        margin-top: 0vw;
+       
+    }
     .contact{
         font-size: 16px;
     }
@@ -100,6 +108,10 @@ h4{
     }
     .text-slide-home {
         margin-top: -7vw;
+    }
+    .text-slide-app {
+        margin-top: 0vw;
+       
     }
     h2{font-size: 1.8rem;}
     h4{font-size: 1.6rem;}
@@ -130,7 +142,8 @@ h4{
     }
     .contact2,.contact3,.mail,.tel,.facebook{
         font-size: 14px;
-    }       
+    }      
+     
 }
 
 
@@ -150,6 +163,10 @@ h4{
     font-size: 1.3rem;
     }.text-slide-home {
     margin-top: -38vw;
+}
+.text-slide-app {
+    margin-top: 0vw;
+   
 }
 .contact{
     font-size: 14px;
@@ -175,6 +192,10 @@ h4{
     }.text-slide-home {
     margin-top: -38vw;
 }
+.text-slide-app {
+    margin-top: 0vw;
+   
+}
 .contact{
     font-size: 14px;
 }
@@ -193,22 +214,26 @@ h4{
     .about1{
         font-size: 18px;
             padding-top: 0px;
-        color: black;
+        color: rgb(248, 245, 245);
     }
     .about2{
         font-size: 14px;
         padding-top: 0;
-        color: black;
+        color: rgb(248, 245, 245);
     }
     h2{
         font-size: 1.5rem;
-        color: black;
+        color: rgb(248, 245, 245);
     }
     h4{
     font-size: 1rem;
-    color: black;
+    color: rgb(248, 245, 245);
 }.text-slide-home {
     margin-top: -27vw;
+}
+.text-slide-app {
+    margin-top: 0vw;
+   
 }
 .contact{
     font-size: 16px;

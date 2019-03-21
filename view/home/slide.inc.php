@@ -6,7 +6,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7  text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7  text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -29,7 +29,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -52,7 +52,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -76,7 +76,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -100,7 +100,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -124,7 +124,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -148,7 +148,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -172,7 +172,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -196,7 +196,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -220,7 +220,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -244,7 +244,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
@@ -268,7 +268,7 @@
         <div class="col-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-home">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 text-slide-app">
 
                         <div class="slide-item">
                             <div class="slide-detail-home">
