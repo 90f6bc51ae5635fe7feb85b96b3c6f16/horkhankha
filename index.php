@@ -13,7 +13,8 @@ date_default_timezone_set("Asia/Bangkok");
 
 
 
-
+        <link rel="SHORTCUT ICON" href="img_upload/home/logo.png"/>
+        <link rel="icon" href="img_upload/home/logo.png" type="image/x-icon"/>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge">   
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
