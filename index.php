@@ -19,7 +19,7 @@ date_default_timezone_set("Asia/Bangkok");
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>REAL ESTATE ABOUT PAGE </title>
+        <title>Nakhonratchasima Chamber Of Commerce</title>
 
         <script src="template/js/jquery-2.2.0.min.js" type="text/javascript"></script>
 
